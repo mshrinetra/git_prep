@@ -44,6 +44,7 @@ body{
 }
 
 .about-section{
+    text-align: center;
     background-color: mintcream;
     border: 2px solid mediumpurple;
     margin: 0 1em;
@@ -55,4 +56,10 @@ body{
     border: 2px solid mediumpurple;
     margin: 0 1em;
     padding: 0.5em 1em;
+}
+
+.profile-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
 }
