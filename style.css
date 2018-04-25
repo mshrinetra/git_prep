@@ -56,3 +56,17 @@ body{
     margin: 0 1em;
     padding: 0.5em 1em;
 }
+
+.feature-section{
+    text-align: center;
+}
+
+.feature-table{
+    margin: auto;
+}
+
+.feature-table-td{
+    min-width: 100px;
+    min-height: 100px;
+    border: 50px solid firebrick;
+}
