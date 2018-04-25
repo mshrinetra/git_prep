@@ -27,10 +27,15 @@ body{
 }
 
 .article-section{
-    background-color: mintcream;
-    border: 2px solid mediumpurple;
     margin: 0 1em;
     padding: 0.5em 1em;
+}
+
+.article{
+    border: 2px solid mediumpurple;
+    background-color: mintcream;
+    padding: 1em;
+    margin: 1em;
 }
 
 .article-header{
