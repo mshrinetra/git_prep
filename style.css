@@ -37,3 +37,17 @@ body{
     color: indigo;
     text-align: center;
 }
+
+.about-section{
+    background-color: mintcream;
+    border: 2px solid mediumpurple;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+}
+
+.contact-section{
+    background-color: mintcream;
+    border: 2px solid mediumpurple;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+}
