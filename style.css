@@ -56,3 +56,12 @@ body{
     margin: 0 1em;
     padding: 0.5em 1em;
 }
+
+.feature-div{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid green;
+    margin: 2em;
+}
