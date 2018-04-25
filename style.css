@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.page-header{
+    background-color: navy;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.page-nav{
+    background-color: powderblue;
+    padding: 0.1em;
+}
+
+.nav-list{
+    list-style: none;
+    text-align: center;
+}
+
+.nav-list-item{
+    display: inline;
+    margin: 0 2em;
+    font-size: 1.2em;
+}
+
+.article-section{
+    background-color: mintcream;
+    border: 2px solid mediumpurple;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+}
+
+.article-header{
+    color: indigo;
+    text-align: center;
+}
